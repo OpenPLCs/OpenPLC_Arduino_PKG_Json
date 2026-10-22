@@ -1,4 +1,4 @@
-# OpenPLC_Alpha board package index
+# OpenPLC_Arduino_PKG_Json
 
 Board Manager index for the OpenPLC_Alpha (STM32H743IIKx) Arduino board package.
 
