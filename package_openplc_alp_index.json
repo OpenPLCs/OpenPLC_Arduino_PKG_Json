@@ -8,6 +8,41 @@
           {
           "name": "OpenPLC_Alpha H743IIKx",
           "architecture": "stm32",
+          "version": "0.2.0",
+          "category": "Contributed",
+          "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_PKG/releases/download/0.2.0/OpenPLC_Arduino_PKG-0.2.0.tar.gz",
+          "archiveFileName": "OpenPLC_Arduino_PKG-0.2.0.tar.gz",
+          "checksum": "SHA-256:D264C2802891740BD054456E8CD3797855D8E1636DA09DAACB6DE9EDCBB7FAE4",
+          "size": "18254671",
+          "boards": [
+            {      "name": "H743IIKx Alpha"  }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "OpenPLC_Alpha",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "12.2.1-1.2"
+            },
+            {
+              "packager": "OpenPLC_Alpha",
+              "name": "xpack-openocd",
+              "version": "0.12.0-1"
+            },
+            {
+              "packager": "OpenPLC_Alpha",
+              "name": "STM32Tools",
+              "version": "0.2.0"
+            },
+            {
+              "packager": "OpenPLC_Alpha",
+              "name": "CMSIS",
+              "version": "5.7.0"
+            }
+          ]
+        },
+          {
+          "name": "OpenPLC_Alpha H743IIKx",
+          "architecture": "stm32",
           "version": "0.1.3",
           "category": "Contributed",
           "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_PKG/releases/download/0.1.3/OpenPLC_Arduino_PKG-0.1.3.tar.gz",
@@ -32,41 +67,6 @@
               "packager": "OpenPLC_Alpha",
               "name": "STM32Tools",
               "version": "0.1.3"
-            },
-            {
-              "packager": "OpenPLC_Alpha",
-              "name": "CMSIS",
-              "version": "5.7.0"
-            }
-          ]
-        },
-          {
-          "name": "OpenPLC_Alpha H743IIKx",
-          "architecture": "stm32",
-          "version": "0.1.3-pre",
-          "category": "Contributed",
-          "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_PKG/releases/download/v0.1.3-pre/OpenPLC_Arduino_PKG-0.1.3-pre.tar.gz",
-          "archiveFileName": "OpenPLC_Arduino_PKG-0.1.3-pre.tar.gz",
-          "checksum": "SHA-256:62D3BB10C2ABDBA8C43B2DFD5DF6103EE826C9DFB34994DF427B29C83EF89EDD",
-          "size": "9811556",
-          "boards": [
-            {      "name": "H743IIKx Alpha"  }
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "OpenPLC_Alpha",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "12.2.1-1.2"
-            },
-            {
-              "packager": "OpenPLC_Alpha",
-              "name": "xpack-openocd",
-              "version": "0.12.0-1"
-            },
-            {
-              "packager": "OpenPLC_Alpha",
-              "name": "STM32Tools",
-              "version": "0.1.2"
             },
             {
               "packager": "OpenPLC_Alpha",
@@ -310,6 +310,33 @@
               "archiveFileName": "CMSIS-5.7.0.tar.bz2",
               "checksum": "SHA-256:0b04b0f214e483bcc360cda985cddc0de8031714019ceabcda4770d510b82bfe",
               "size": "26151901"
+            }
+          ]
+        },
+        {
+          "name": "STM32Tools",
+          "version": "0.2.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_Tool/releases/download/0.2.0/STM32Tools.tar.gz",
+              "archiveFileName": "STM32Tools.tar.gz",
+              "checksum": "SHA-256:140C87EBD92C7BAA39B7950C1936E0C3B09AB666B1D5936B1AF33B5D4B300261",
+              "size": "16976618"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_Tool/releases/download/0.2.0/STM32Tools.tar.gz",
+              "archiveFileName": "STM32Tools.tar.gz",
+              "checksum": "SHA-256:140C87EBD92C7BAA39B7950C1936E0C3B09AB666B1D5936B1AF33B5D4B300261",
+              "size": "16976618"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_Tool/releases/download/0.2.0/STM32Tools.tar.gz",
+              "archiveFileName": "STM32Tools.tar.gz",
+              "checksum": "SHA-256:140C87EBD92C7BAA39B7950C1936E0C3B09AB666B1D5936B1AF33B5D4B300261",
+              "size": "16976618"
             }
           ]
         },
