@@ -12,8 +12,8 @@
           "category": "Contributed",
           "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_PKG/releases/download/0.2.0/OpenPLC_Arduino_PKG-0.2.0.tar.gz",
           "archiveFileName": "OpenPLC_Arduino_PKG-0.2.0.tar.gz",
-          "checksum": "SHA-256:D264C2802891740BD054456E8CD3797855D8E1636DA09DAACB6DE9EDCBB7FAE4",
-          "size": "18254671",
+          "checksum": "SHA-256:B134B0537508864E695FE9E2E535B4637AD42D8D8CA5C94588CD4418561C97EA",
+          "size": "18251381",
           "boards": [
             {      "name": "H743IIKx Alpha"  }
           ],
