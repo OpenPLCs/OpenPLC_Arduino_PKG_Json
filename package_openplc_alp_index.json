@@ -12,8 +12,8 @@
           "category": "Contributed",
           "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_PKG/releases/download/0.2.0/OpenPLC_Arduino_PKG-0.2.0.tar.gz",
           "archiveFileName": "OpenPLC_Arduino_PKG-0.2.0.tar.gz",
-          "checksum": "SHA-256:B134B0537508864E695FE9E2E535B4637AD42D8D8CA5C94588CD4418561C97EA",
-          "size": "18251381",
+          "checksum": "SHA-256:F429924452A8FBCB399271B3469C73B0470B2232EA9AC2FC17F6B79F6D233629",
+          "size": "18252237",
           "boards": [
             {      "name": "H743IIKx Alpha"  }
           ],
@@ -321,22 +321,22 @@
               "host": "i686-mingw32",
               "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_Tool/releases/download/0.2.0/STM32Tools.tar.gz",
               "archiveFileName": "STM32Tools.tar.gz",
-              "checksum": "SHA-256:140C87EBD92C7BAA39B7950C1936E0C3B09AB666B1D5936B1AF33B5D4B300261",
-              "size": "16976618"
+              "checksum": "SHA-256:82A107BA504BFBF3D739910524EA0EEAF9E3CB9092576EA4DA470F61D576D29D",
+              "size": "16983304"
             },
             {
               "host": "x86_64-apple-darwin",
               "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_Tool/releases/download/0.2.0/STM32Tools.tar.gz",
               "archiveFileName": "STM32Tools.tar.gz",
-              "checksum": "SHA-256:140C87EBD92C7BAA39B7950C1936E0C3B09AB666B1D5936B1AF33B5D4B300261",
-              "size": "16976618"
+              "checksum": "SHA-256:82A107BA504BFBF3D739910524EA0EEAF9E3CB9092576EA4DA470F61D576D29D",
+              "size": "16983304"
             },
             {
               "host": "x86_64-pc-linux-gnu",
               "url": "https://github.com/OpenPLCs/OpenPLC_Arduino_Tool/releases/download/0.2.0/STM32Tools.tar.gz",
               "archiveFileName": "STM32Tools.tar.gz",
-              "checksum": "SHA-256:140C87EBD92C7BAA39B7950C1936E0C3B09AB666B1D5936B1AF33B5D4B300261",
-              "size": "16976618"
+              "checksum": "SHA-256:82A107BA504BFBF3D739910524EA0EEAF9E3CB9092576EA4DA470F61D576D29D",
+              "size": "16983304"
             }
           ]
         },
